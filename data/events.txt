@@ -67,3 +67,6 @@ https://thetvapp.to/event/houston-texans-vs-kansas-city-chiefs-8e69ba9c62b475e7c
 #EXTINF:-1 tvg-id="b603b071ed76cdfc94eb405668f94273" tvg-name="Washington Commanders vs. Detroit Lions" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png/preview" group-title="NFL Football",8:00 PM - Washington Commanders vs. Detroit Lions - 08:00 PM EST - (01/18/2025)
 https://thetvapp.to/event/washington-commanders-vs-detroit-lions-f86739438df6c6481fdec0d16c189023/
 
+#EXTINF:-1 tvg-id="ea29b19621ab808999f3e3b68e863e8d" tvg-name="UFC 311: Makhachev vs. Tsarukyan - Prelims and Main Card" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ppv%5B1%5D.png?raw=true" group-title="PPV Events",8:10 PM - UFC 311: Makhachev vs. Tsarukyan - Prelims and Main Card - 08:10 PM EST - (01/18/2025)
+https://thetvapp.to/event/ufc-311-makhachev-vs-tsarukyan-prelims-and-main-card/
+
