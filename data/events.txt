@@ -49,3 +49,6 @@ https://thetvapp.to/event/milwaukee-bucks-vs-utah-jazz-4c7063d42a874f80a9c17b977
 #EXTINF:-1 tvg-id="c15ab00afc4916de12c0f5676c9ce5e3" tvg-name="Los Angeles Clippers vs. Phoenix Suns" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ej5sxw1728121732.jpg/preview" group-title="NBA Basketball",9:40 PM - Los Angeles Clippers vs. Phoenix Suns - 09:40 PM EST - (01/27/2025)
 https://thetvapp.to/event/los-angeles-clippers-vs-phoenix-suns-aecc41fbcb21eac7198d1a04bddb07a0/
 
+#EXTINF:-1 tvg-id="e47ff9eec4b1661a6c493c9cf0ce6d45" tvg-name="WWE Monday Night Raw" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ppv%5B1%5D.png?raw=true" group-title="PPV Events",8:10 PM - WWE Monday Night Raw - 08:10 PM EST - (01/27/2025)
+https://thetvapp.to/event/wwe-monday-night-raw/
+
